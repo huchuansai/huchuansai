@@ -10,7 +10,7 @@ To be a coder , To be a runner
 *   ✉️  You can contact me at [huchuansai@foxmail.com](mailto:huchuansai@foxmail.com)
 *   🧠  I'm learning Java,Spring,Node.js
 *   ⚡  See more at repositories<a href="https://www.github.com/huchuansai" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/huchuansai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+                  src="https://img.shields.io/github/followers/huchuansai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
